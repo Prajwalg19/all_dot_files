@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/lesstzero/Downloads/FireDown" added="2023-04-27T12:19:54.793034Z" modified="2023-04-27T12:19:54.808029Z" visited="2023-04-27T12:19:54.793039Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2023-04-27T12:19:54.793043Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-04-27T12:19:54.808022Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lesstzero/Downloads/FireDown/dotfiles-master.zip" added="2023-04-27T12:39:16.048163Z" modified="2023-04-27T12:39:16.048175Z" visited="2023-04-27T12:39:16.048167Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-04-27T12:39:16.048171Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/Blue_flower_by_Elena_Stravoravdi.jpg" added="2023-04-27T12:56:30.111335Z" modified="2023-04-27T13:08:51.701153Z" visited="2023-04-27T12:56:30.111338Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-27T13:08:51.701148Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/canvas_by_roytanck.jpg" added="2023-04-27T12:56:32.993242Z" modified="2023-04-27T13:08:43.626863Z" visited="2023-04-27T12:56:32.993245Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-27T13:08:43.626859Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/Cherry_Tree_in_Lakones_by_elenastravoravdi.jpg" added="2023-04-27T12:56:33.491070Z" modified="2023-04-27T13:08:44.176065Z" visited="2023-04-27T12:56:33.491074Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-27T13:08:44.176061Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/DSC2943_by_kcpru.jpg" added="2023-04-27T12:56:34.218590Z" modified="2023-04-27T13:08:44.894736Z" visited="2023-04-27T12:56:34.218593Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-27T13:08:44.894732Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/Jammy-Jellyfish_WP_4096x2304_Grey.png" added="2023-04-27T12:56:34.620506Z" modified="2023-04-27T13:08:45.444155Z" visited="2023-04-27T12:56:34.620509Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-27T13:08:45.444151Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/jj_dark_by_Hiking93.jpg" added="2023-04-27T12:56:34.756943Z" modified="2023-04-27T13:08:55.706182Z" visited="2023-04-27T12:56:34.756946Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-27T13:08:55.706178Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/jj_light_by_Hiking93.jpg" added="2023-04-27T12:56:35.161675Z" modified="2023-04-27T13:08:55.162946Z" visited="2023-04-27T12:56:35.161679Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-27T13:08:55.162942Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/Mirror_by_Uday_Nakade.jpg" added="2023-04-27T12:56:35.835280Z" modified="2023-04-27T13:08:54.707709Z" visited="2023-04-27T12:56:35.835283Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-27T13:08:54.707705Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/Optical_Fibers_in_Dark_by_Elena_Stravoravdi.jpg" added="2023-04-27T12:56:36.328420Z" modified="2023-04-27T13:08:53.998520Z" visited="2023-04-27T12:56:36.328422Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-27T13:08:53.998516Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/ubuntu2_by_arman1992.jpg" added="2023-04-27T12:56:36.696986Z" modified="2023-04-27T13:08:53.847122Z" visited="2023-04-27T12:56:36.696989Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-27T13:08:53.847118Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/ubuntu_by_arman1992.jpg" added="2023-04-27T12:56:37.633697Z" modified="2023-04-27T13:08:49.852351Z" visited="2023-04-27T12:56:37.633700Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-27T13:08:49.852347Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/ubuntu-default-greyscale-wallpaper.png" added="2023-04-27T12:56:37.849306Z" modified="2023-04-27T13:08:53.452739Z" visited="2023-04-27T12:56:37.849310Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-27T13:08:53.452734Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/warty-final-ubuntu.png" added="2023-04-27T12:56:38.191581Z" modified="2023-04-27T13:08:53.202632Z" visited="2023-04-27T12:56:38.191584Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-27T13:08:53.202627Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lesstzero/Downloads/FireDown/squashfs-root/nvim.png" added="2023-04-27T13:39:02.993311Z" modified="2023-04-27T13:39:02.993323Z" visited="2023-04-27T13:39:02.993314Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-27T13:39:02.993319Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lesstzero/.fonts" added="2023-04-27T16:06:41.264792Z" modified="2023-04-27T16:51:34.379432Z" visited="2023-04-27T16:06:41.264797Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-04-27T16:51:34.379426Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lesstzero/Downloads/FireDown/fonts" added="2023-04-27T16:07:28.550654Z" modified="2023-04-27T16:07:28.550674Z" visited="2023-04-27T16:07:28.550660Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-04-27T16:07:28.550665Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lesstzero/Downloads/FireDown/wallpaperflare.com_wallpaper.jpg" added="2023-04-27T17:28:45.230959Z" modified="2023-04-27T17:28:45.230969Z" visited="2023-04-27T17:28:45.230961Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-27T17:28:45.230966Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lesstzero/Downloads/FireDown/pxfuel.jpg" added="2023-04-28T09:22:51.519450Z" modified="2023-04-28T09:22:51.519456Z" visited="2023-04-28T09:22:51.519451Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-28T09:22:51.519454Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lesstzero/Downloads/FireDown/412639.jpg" added="2023-04-28T09:23:10.873979Z" modified="2023-04-28T09:23:10.873985Z" visited="2023-04-28T09:23:10.873980Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-28T09:23:10.873983Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lesstzero/Downloads/FireDown/ZB3uqq.jpg" added="2023-04-28T09:24:48.019837Z" modified="2023-04-28T09:24:48.268859Z" visited="2023-04-28T09:24:48.019840Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-04-28T09:24:48.019844Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2023-04-28T09:24:48.268855Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lesstzero/Documents/Ebooks/R%20S%20aggarwal%20verbal%20reasoning.pdf" added="2023-04-28T14:15:24.123740Z" modified="2023-04-28T14:15:24.123758Z" visited="2023-04-28T14:15:24.123745Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-04-28T14:15:24.123750Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lesstzero/Documents/Ebooks/pdfcoffee.com_rs-agarwal-quantitative-aptitude-bookpdf-pdf-free.pdf" added="2023-04-28T14:17:56.833688Z" modified="2023-04-28T14:17:57.084263Z" visited="2023-04-28T14:17:56.833693Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-04-28T14:17:56.833699Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2023-04-28T14:17:57.084256Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lesstzero/Downloads/FireDown/node-v18.16.0.tar.gz" added="2023-04-29T04:33:50.704780Z" modified="2023-04-29T04:33:52.514668Z" visited="2023-04-29T04:33:50.704785Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2023-04-29T04:33:50.704790Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-04-29T04:33:52.514663Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lesstzero/Documents/Ebooks/automate-the-boring-stuff-with-python-2015-.pdf" added="2023-04-30T08:09:38.944470Z" modified="2023-04-30T08:10:48.565350Z" visited="2023-04-30T08:09:38.944473Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.5" exec="&apos;soffice %u&apos;" modified="2023-04-30T08:10:48.565345Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lesstzero/Downloads/FireDown/shell/gnome-shell-extensions.zip" added="2023-04-30T08:22:46.913395Z" modified="2023-04-30T08:22:46.913406Z" visited="2023-04-30T08:22:46.913399Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-04-30T08:22:46.913402Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
